@@ -5,7 +5,7 @@ A simple and practical vue code
 ## use
 
 ```jsx
-import { connent } from '@lgd/vhoc'
+import { connent } from '@leegedan/vhoc'
 
 const TestSpan = {
   props: { text: { type: String } },
