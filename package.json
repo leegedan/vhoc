@@ -1,0 +1,19 @@
+{
+  "name": "@lgd/vhoc",
+  "version": "1.0.0",
+  "description": "a simple and practical vue code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vueComponent"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegedan/vhoc.git"
+  },
+  "author": "leegedan",
+  "license": "MIT"
+}
