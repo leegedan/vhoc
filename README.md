@@ -21,4 +21,4 @@ const HaSpan = connent(TestSpan)({ text: 'haha' })
 
 ### desc
 
-vue 项目我都会用这个方式来设置组件默认props，有的业务组件更好用。 用了好多年也没看到有人来说这个，顺便去水个包。
+方便设置组件默认props，业务组件更好用。 顺便水个包。
